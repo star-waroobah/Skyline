@@ -1,0 +1,28 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+1×4 male header,1,INSTOCK,$0.14,$0.14,https://instock.pk/single-row-round-pin-male-header-2-54mm-pitch.html?utm_source=chatgpt.com
+"Female sockets, 7+5 pins",1,Instock,$0.09,$0.09,https://instock.pk/components.html?utm_source=chatgpt.com
+capacitor 100nF (0603),7,electronic store,$0.02,$0.14,https://electronicstore.pk/product/100nf-1uf-104-50v-0603-mlcc-smd-multilayer-ceramic-capacitor/
+capacitor 1uF (0804),3,electronicstore,$0.02,$0.06,https://electronicstore.pk/product/1uf-105-50v-0805-2012m-multilayer-ceramic-capacitor-mlcc-smd-smt/
+capacitor 2.2uF,2,electronic store,$0.05,$0.10,https://electronicstore.pk/product/2-2uf-50v-0603-mlcc-smd-multilayer-ceramic-capacitor/
+capacitor 100nF (0804),1,electronicstore,$0.02,$0.02,https://electronicstore.pk/product/100nf-1uf-104k-50v-0805-2012m-multilayer-ceramic-capacitor-mlcc-smd-smt/
+10µF 0603,1,electronic store,$0.06,$0.06,https://electronicstore.pk/product/10uf-106-50v-0603-mlcc-smd-multilayer-ceramic-capacitor/
+20pF 0603,2,EVE-eVision,$0.02,$0.04,https://www.evselectro.com/20pf-200-50v-0603-mlcc-smd-multilayer-ceramic-capacitor-8940?utm_source=chatgpt.com
+6.8pF 0603,1,EVE-eVision,$0.02,$0.02,https://www.evselectro.com/capacitors/smd-capacitors-0603/6.8pf-50v-0603-mlcc-smd-multilayer-ceramic-capacitor-8935?utm_source=chatgpt.com
+10kΩ 0603,8,ELECTRONIC STORE,$0.01,$0.08,https://electronicstore.pk/product/10k-ohm-0-1w-0603-0201-5-smd-resistor/
+5.1kΩ 0603,2,electronic store,$0.02,$0.04,https://electronicstore.pk/product/5-1k-ohm-0-1w-0603-0201-5-smd-resistor/?utm_source=chatgpt.com
+4.7kΩ 0603,2,electronic store,$0.02,$0.04,https://electronicstore.pk/shop/page/62/?per_page=18&per_row=3&shop_view=grid&stock_status=onsale&utm_source=chatgpt.com
+STM32F722RET6,1,LCSC,$11.29,$11.29,https://www.lcsc.com/product-detail/C118207.html?s_z=n_LD39015M15R&utm_source=chatgpt.com
+LMR51430XDDCR,1,LCSC,$0.79,$0.79,https://www.lcsc.com/product-detail/C5185863.html?is_substitute=1&original_product_code=C5246146&original_unit_price=0.8318&utm_source=chatgpt.com
+SS34 SMA diode,1,digilog,$0.11,$0.11,https://digilog.pk/products/smd-schottky-diode-ss34-1n5822-3a-40v?utm_source=chatgpt.com
+25MHz crystal,1,LCSC,$0.46,$0.46,https://www.lcsc.com/product-detail/SMD-Crystal-Resonators_Yangxing-Tech-X322525MOB4SI_C9006.html?utm_source=chatgpt.com
+32.768kHz crystal,1,LCSC,$0.87,$0.87,https://www.lcsc.com/product-detail/C32346.html?utm_source=chatgpt.com
+5.6µH inductor,1,LCSC,$0.38,$0.38,https://www.lcsc.com/product-detail/C18236327.html?utm_source=chatgpt.com
+Ferrite bead,1,LCSC,$0.55,$0.55,https://www.lcsc.com/product-detail/Ferrite-Beads_TAI-TECH-FCM1608KF-601T03_C141723.html?utm_source=chatgpt.com
+TS-1088 buttons,2,LCSC,$0.51,$1.02,https://www.lcsc.com/product-detail/Pushbutton-Switches_XUNPU-TS-1088-AR02016_C720477.html?utm_source=chatgpt.com
+USB-C connector,1,LCSC,$1.44,$1.44,https://www.lcsc.com/product-detail/usb-connectors_shou-han-type-c-16pin-2md-073_C2765186.html?utm_source=chatgpt.com
+MicroSD socket,1,LCSC,$0.40,$0.40,https://www.lcsc.com/product-detail/C52750848.html?utm_source=chatgpt.com
+2-pin 2.54mm screw terminal,1,electronic store,$0.06,$0.06,https://electronicstore.pk/product-category/connector-2/?per_page=24&utm_source=chatgpt.com
+PCB,1,PCBX,$4.24,$4.24,https://www.pcbx.com/order/manufacturing/pcb
+1kΩ 0603,1,electronic store,$0.02,$0.02,https://electronicstore.pk/product-category/resistor-capacitor-0603/?per_page=24&per_row=4&shop_view=grid&utm_source=chatgpt.com
+100kΩ 0603,1,electronic store,$0.01,$0.01,https://electronicstore.pk/product/100k-ohm-0-1w-0603-0201-5-smd-resistor/?utm_source=chatgpt.com
+Estimated total shipping,1,,,$0.00,
