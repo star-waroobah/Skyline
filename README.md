@@ -11,11 +11,18 @@ I made this as the half life week 5 project.
 
 ## Features
 
-- [Feature 1: e.g. custom flight controller PCB designed in KiCad]
-- [Feature 2: e.g. microcontroller / IMU used]
-- [Feature 3: e.g. motor drivers / ESCs]
-- [Feature 4: e.g. wireless link or radio receiver]
-- [Feature 5: e.g. battery type and power regulation]
+- **STM32F722RET6 MCU** with 25 MHz and 32.768 kHz crystals, plus reset and boot buttons
+- **USB-C port** for power and programming
+- **4 motor outputs** (PA0–PA3) through one 8-pin 4-in-1 ESC header
+- **Receiver header** (UART, 3.3 V) for ELRS or similar radios
+- **Battery voltage monitoring**, with the divider sized for a 4S battery
+- **SWD header** as a backup way to flash firmware
+- **Plug-in IMU (SPI) and barometer (I2C) headers** for breakout boards
+- **microSD slot** for flight logging
+- **Dual power input:** two SS34 diodes let the board run from USB or the battery
+- **LMR51430 3.3 V buck regulator** that accepts up to 36 V in
+- **Hand-solderable:** 0603 and 0805 parts and 2.54 mm headers
+
 
 ## How it works
 
